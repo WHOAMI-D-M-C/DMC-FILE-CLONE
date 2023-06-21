@@ -24,12 +24,11 @@
 
 Install my-project with npm
 
-```[😈] 𝚄𝙿𝙳𝙰𝚃𝙴 𝙳𝙾𝙽𝙴
-[🕸️] 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 1.0
-[😈] FREE FOR ALL
-[🕸️] 32&64 𝙱𝙸𝚃 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 & 𝙻𝙾𝙲𝙺 𝙸𝙳 𝚁𝙴𝙼𝙾𝚅𝙴
-[🕸️] 𝙹𝙾𝙸𝙽 𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 : https://chat.whatsapp.com/J0IeFvZJWuB7h7VYL5Duj5
-[😈] 𝚃𝙾𝙾𝙻
+```
+1.0
+FREE FOR ALL
+32&64
+https://chat.whatsapp.com/J0IeFvZJWuB7h7VYL5Duj5
 
 pip install beautifulsoup4
 
